@@ -121,6 +121,6 @@ Doctoral candidate in Physics at Northeastern University with expertise in theor
 
 ## Academic Website
 
-- Live CV site: \https://animated-enigma-wrjjw7vjjw4525xpq-8888.app.github.dev/
+- Live CV site: [Luke Sherozia - Academic Portfolio](https://animated-enigma-wrjjw7vjjw4525xpq-8888.app.github.dev/)
 
 
