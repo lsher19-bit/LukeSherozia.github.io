@@ -1,48 +1,7 @@
-# **Luke Sherozia** 
-
-
-
-Email: sherozia.l@northeastern
-
-Phone: (+1) 617-676-7052
-
-Address: Northeastern University, Boston
-
-
-
-
-
-
-
-## Education
-
-1.  **Education**
-
-September 2024 -  August 2029 
-
-Degree: Doctorate in Physics (PhD)
-
-Where: Northeastern University, Boston
-
-2. **Modify styles** –
-
-
-
-
-
-
-3. **Add assets** – create an `images/` folder for photos or other media and reference them from HTML.
-4. **Preview locally** – open `index.html` in a browser or run a local server (e.g. `python3 -m http.server`).
-
-## Pedagogy
-
-
-## Synergistic activities
-
-
-
-## Publications and review articles
 # Luke Sherozia
+
+**Website:** https://lsher19-bit.github.io/
+
 
 **Email:** sherozia.l@northeastern
 
