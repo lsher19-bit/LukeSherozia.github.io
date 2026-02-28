@@ -1,9 +1,10 @@
 # Luke Sherozia
 
-**Website:** https://lsher19-bit.github.io/
+## Academic CV Website
 
+**📍 Visit my CV:** [Luke Sherozia - Academic Portfolio](https://animated-enigma-wrjjw7vjjw4525xpq-8888.app.github.dev/)
 
-**Email:** sherozia.l@northeastern
+**📧 Email:** sherozia.l@northeastern.edu
 
 **Phone:** (+1) 617-676-7052
 
@@ -13,7 +14,7 @@
 
 ## Summary
 
-Doctoral candidate in Physics at Northeastern University with expertise in theoretical physics, computational modeling, and interdisciplinary research spanning fluid dynamics, cosmology, and biophysics. Experienced in numerical simulations, mathematical modeling, and scientific communication.
+Doctoral candidate in Physics at Northeastern University with expertise in theoretical physics, computational modeling, and interdisciplinary research spanning fluid dynamics, Cosmology, and Biophysics. Experienced in numerical simulations, mathematical modeling, and scientific communication.
 
 ---
 
@@ -21,7 +22,7 @@ Doctoral candidate in Physics at Northeastern University with expertise in theor
 
 - **Doctorate in Physics (PhD)** — Northeastern University, Boston
 	- September 2024 — August 2029
-	- GPA: 3.8 / 4.0
+	- Concentration- Theoretical Biophysics
 
 - **Honours Bachelor’s Degree in Theoretical Physics** — University of Dublin, Trinity College
 	- September 2021 — May 2024
@@ -118,9 +119,8 @@ Doctoral candidate in Physics at Northeastern University with expertise in theor
 
 ---
 
-## Notes
+## Academic Website
 
-- Live CV site: https://lsher19-bit.github.io/
-- To download the PDF version, open the live site and use the browser Print → Save as PDF option.
+- Live CV site: \https://animated-enigma-wrjjw7vjjw4525xpq-8888.app.github.dev/
 
 
